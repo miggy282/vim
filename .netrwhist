@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/sullivanm/Work/git/cheetah/aws/config'
+let g:netrw_dirhist_2='/Users/sullivanm/Work/git/proxy_cache/nginx/conf.d'
+let g:netrw_dirhist_3='/Users/sullivanm/Work/git/tmg-aem/files/default/conf/dispatcher'
+let g:netrw_dirhist_4='/Users/sullivanm/Work/Projects/project/aws/automation/chef-cookbooks/create_or_attach_ebs'
+let g:netrw_dirhist_5='/Users/sullivanm/Work/Projects/project/aws/automation/chef-cookbooks/aws_service_discovery'
+let g:netrw_dirhist_6='/Users/sullivanm/Work/Projects/project/aws/automation/chef-cookbooks/aws_service_discovery/providers'
